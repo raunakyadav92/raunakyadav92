@@ -3,12 +3,12 @@
 
 Email Me 👉 ✉️ **raaunakyadav2007@gmail.com**  For Collaboration/Project or Anything Else.😊😊
 
+
 - 🌱 **I’m currently learning:** Machine Learning, Deep Learning, Data Analytics
 
-Description: Built a dashboard using AWS CloudWatch, Lambda, and DynamoDB to track cloud resource usage and suggest cost-saving tips.
+
 
 Tech Stack: App Development, Python, Panda
-- 🤔 **I’m looking for help with:** DashTrack
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** raaunakyadav@gmail.com
 - 😄 **Pronouns:** Raunak
