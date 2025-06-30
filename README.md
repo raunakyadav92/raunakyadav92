@@ -3,13 +3,11 @@
 
 Email Me 👉 ✉️ **raaunakyadav2007@gmail.com**  For Collaboration/Project or Anything Else.😊😊
 
-- 🔭 **I’m currently working on:** Smart Cloud Cost Tracker
-- 🌱 **I’m currently learning:** Linux Shell Scripting
-- 👯 **I’m looking to collaborate on:** 1. Cloud Cost Optimization Dashboard
+- 🌱 **I’m currently learning:** Machine Learning, Deep Learning, Data Analytics
 
 Description: Built a dashboard using AWS CloudWatch, Lambda, and DynamoDB to track cloud resource usage and suggest cost-saving tips.
 
-Tech Stack: AWS (Lambda, S3, DynamoDB), Python, CloudWatch, Grafana
+Tech Stack: App Development, Python, Panda
 - 🤔 **I’m looking for help with:** DashTrack
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** raaunakyadav@gmail.com
